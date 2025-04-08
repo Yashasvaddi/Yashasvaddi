@@ -81,4 +81,4 @@
 
 ---
 
-                                                “Code it till you own it. Automate till you free it.”
+                                           “Code it till you own it. Automate till you free it.”
