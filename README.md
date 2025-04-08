@@ -6,11 +6,6 @@
   <a href="mailto:yashas.vaddi12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/YashasVaddi"><img src="https://img.shields.io/github/followers/YashasVaddi?label=Follow&style=social" /></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashasVaddi&color=purple" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🧠 About Me
