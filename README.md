@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Open+Source+Contributor;Tech+Explorer+%7C+Problem+Solver" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">AI/ML Engineer | AI/ML Enthusiast 🚀</h3>
+<h3 align="center">AI/ML Enthusiast | AI/ML Enthusiast 🚀</h3>
 
 <p align="center" style="animation: fadeIn 2s ease-in;">
   <a href="https://www.linkedin.com/in/yashas-vaddi-111575219/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
