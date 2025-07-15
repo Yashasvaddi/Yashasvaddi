@@ -76,8 +76,8 @@
 
 > Reach out to me if you want to collaborate on any AI/ML or full stack project!
 
-📩 yashas@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yashas-vaddi-111575219/)  
+📩 yashas.vaddi12@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/yashasvaddi/)  
 
 ---
 
