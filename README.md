@@ -7,9 +7,15 @@
 <h3 align="center">AI Engineering • Deployment • Automation • Systems Thinking 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashasvaddi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:yashas.vaddi12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/YashasVaddi"><img src="https://img.shields.io/github/followers/YashasVaddi?label=Follow&style=social" /></a>
+  <a href="https://www.linkedin.com/in/yashasvaddi/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:yashas.vaddi12@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YashasVaddi">
+    <img src="https://img.shields.io/github/followers/YashasVaddi?label=Follow&style=social" />
+  </a>
 </p>
 
 ---
@@ -90,9 +96,18 @@ I care less about *model hype* and more about **systems that work under constrai
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashasVaddi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashasVaddi&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YashasVaddi&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YashasVaddi&show_icons=true&theme=radical&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashasVaddi&layout=compact&theme=radical&langs_count=6&cache_seconds=1800"
+    alt="Top Languages"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=YashasVaddi&theme=radical"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
