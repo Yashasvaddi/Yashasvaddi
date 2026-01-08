@@ -93,25 +93,6 @@ I care less about *model hype* and more about **systems that work under constrai
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YashasVaddi&show_icons=true&theme=radical&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashasVaddi&layout=compact&theme=radical&langs_count=6&cache_seconds=1800"
-    alt="Top Languages"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=YashasVaddi&theme=radical"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 ## 📫 Connect
 
 If you care about **AI that actually runs**, not just models that look good in notebooks — we’ll get along.
