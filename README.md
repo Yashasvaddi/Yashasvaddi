@@ -1,13 +1,13 @@
 <h1 align="center">
   Hi, I'm Yashas Vaddi 👋
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Open+Source+Contributor;Tech+Explorer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=520&lines=AI+Engineer+%7C+Infra+Builder;Local+%26+Distributed+LLMs;Deployment+%7C+Automation+%7C+Systems" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">AI/ML + DevOps | Automation & Intelligence Lover 🚀</h3>
+<h3 align="center">AI Engineering • Deployment • Automation • Systems Thinking 🚀</h3>
 
-<p align="center" style="animation: fadeIn 2s ease-in;">
-  <a href="https://www.linkedin.com/in/yashas-vaddi-111575219/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashasvaddi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:yashas.vaddi12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/YashasVaddi"><img src="https://img.shields.io/github/followers/YashasVaddi?label=Follow&style=social" /></a>
 </p>
@@ -16,69 +16,97 @@
 
 ## 🧠 About Me
 
-🎓 AI/ML Engineer with a passion for building intelligent systems that solve real-world problems.  
-💻 Currently exploring Agentic AI, Generative AI, Deep Learning, and Full Stack AI integrations.  
-🛠️ Experienced with Python, TensorFlow, PyTorch, OpenCV, and building end-to-end AI solutions.  
-🎯 Focused on delivering impactful, scalable AI-driven applications.
+I’m an **AI Engineer who focuses on making models actually usable in the real world** — deployed, optimized, and running reliably.
+
+* 🎓 3rd-year Computer Science Engineering student (CGPA: **9.15**)
+* 🧠 Work spans **LLMs, RAG systems, agent-based architectures, and local model inference**
+* ⚙️ Strong focus on **deployment, servers, tunnels, automation, and infra**
+* 🔐 Interested in **privacy-first AI** (local & decentralized models)
+* 🧪 Prefer building end-to-end systems over isolated demos
+
+I care less about *model hype* and more about **systems that work under constraints**.
 
 ---
 
-## 💼 Skills & Tools
+## 💼 Skills & Tooling
 
-### 🧠 AI / ML / Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+### 🧠 AI / ML / LLM Systems
 
-### 🌐 Web / App Dev
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
 
-### 🛠 Dev Tools & Cloud
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+* Local LLMs (Ollama, Phi, Qwen, Gemma)
+* RAG pipelines (CSV / vector DB / symptom-based retrieval)
+* Tokenization & dataset preprocessing at scale
+* Agent-based & multi-agent reasoning systems
 
 ---
 
-## 🚀 Projects & Achievements
+### 🌐 Backend / Web / APIs
 
-- 🎮 **Flappy Bird AI Clone in Unity**
-- ✍️ Published a research paper in AI/ML domain
-- ✋ Built **Air Canvas** – draw using hand gestures with OpenCV + Mediapipe
-- 📷 Real-Time Face Detection and Saving with Mediapipe
-- 💼 Led the sponsor marketing team for college fests, bringing 10+ sponsors onboard
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+
+* FastAPI-based AI services
+* API orchestration & fallback strategies
+* Real-time transcription & processing pipelines
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 Infra / DevOps / Deployment
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+* Cloudflare Tunnels (no open ports, ISP-safe)
+* Nginx reverse proxy setups
+* Self-hosted AI servers (CPU-constrained environments)
+* GitHub Pages, Render, Streamlit deployments
+
+---
+
+## 🚀 Projects & Work
+
+* 🧠 **Micropulse** – Local & distributed SLM system (privacy-first AI)
+* 🧩 **RAG-based ERM Assistant** – Reduced API calls by storing symptom-level abstractions
+* 🎙 **Live Audio Transcription + Keyword Extraction** for medical workflows
+* 🌍 **Location-based Chat App** – Geo-matching + WebSocket privacy model
+* 🤖 **Multi-agent Deliberative AI System** (Project AETHER)
+* 🧪 Trained & optimized **small language models** under limited compute
+* 📄 **Published 2 AI/ML research papers**
+* 🏆 Participated in **multiple ML hackathons**
+* 💼 Internships: **Doctors App, Mindray**
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashasVaddi&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashasVaddi&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YashasVaddi&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YashasVaddi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashasVaddi&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YashasVaddi&theme=radical" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect
 
-> Reach out to me if you want to collaborate on any AI/ML or full stack project!
+If you care about **AI that actually runs**, not just models that look good in notebooks — we’ll get along.
 
-📩 yashas.vaddi12@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/yashasvaddi/)  
+📩 **[yashas.vaddi12@gmail.com](mailto:yashas.vaddi12@gmail.com)**
+🔗 **linkedin.com/in/yashasvaddi**
+🐙 **github.com/YashasVaddi**
 
 ---
 
-                                           “Code it till you own it. Automate till you free it.”
+<p align="center">
+  <i>“Build systems, not demos. Optimize for reality.”</i>
+</p>
