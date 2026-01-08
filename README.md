@@ -24,7 +24,7 @@
 
 I’m an **AI Engineer who focuses on making models actually usable in the real world** — deployed, optimized, and running reliably.
 
-* 🎓 3rd-year Computer Science Engineering student (CGPA: **9.15**)
+* 🎓 3rd-year Computer Science Engineering student.
 * 🧠 Work spans **LLMs, RAG systems, agent-based architectures, and local model inference**
 * ⚙️ Strong focus on **deployment, servers, tunnels, automation, and infra**
 * 🔐 Interested in **privacy-first AI** (local & decentralized models)
