@@ -97,9 +97,9 @@ I care less about *model hype* and more about **systems that work under constrai
 
 If you care about **AI that actually runs**, not just models that look good in notebooks — we’ll get along.
 
-📩 **[yashas.vaddi12@gmail.com](mailto:yashas.vaddi12@gmail.com)**
-🔗 **[linkedin.com/in/yashasvaddi].(https://www.linkedin.com/in/yashasvaddi/)**
-🐙 **github.com/YashasVaddi**
+📩 Email: yashas.vaddi12@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/yashasvaddi/
+🐙 Github: https://github.com/Yashasvaddi/Yashasvaddi
 
 ---
 
