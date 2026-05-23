@@ -89,7 +89,7 @@ I care less about *model hype* and more about **systems that work under constrai
 * 🧪 Trained & optimized **small language models** under limited compute
 * 📄 **Published 2 AI/ML research papers**
 * 🏆 Participated in **multiple ML hackathons**
-* 💼 Internships: **Doctors App, Mindray**
+* 💼 Internships: **Trrev Technology**
 
 ---
 
