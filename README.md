@@ -1,108 +1,130 @@
-<h1 align="center">
-  Hi, I'm Yashas Vaddi 👋
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=520&lines=AI+Engineer+%7C+Infra+Builder;Local+%26+Distributed+LLMs;Deployment+%7C+Automation+%7C+Systems" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<h3 align="center">AI Engineering • Deployment • Automation • Systems Thinking 🚀</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Yashas+Vaddi;AI%2FML+Engineer+%7C+NLP+%26+RAG+Systems;Production+ML+%7C+MedTech+AI;Build+systems%2C+not+demos." alt="Yashas Vaddi" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yashasvaddi/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:yashas.vaddi12@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YashasVaddi">
-    <img src="https://img.shields.io/github/followers/YashasVaddi?label=Follow&style=social" />
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/yashasvaddi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yashas.vaddi12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Yashasvaddi"><img src="https://img.shields.io/github/followers/Yashasvaddi?label=Follow&style=flat-square&color=0EA5E9" /></a>
 </p>
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-I’m an **AI Engineer who focuses on making models actually usable in the real world** — deployed, optimized, and running reliably.
+Pre-final year **B.E. Computer Engineering** student at **Thadomal Shahani Engineering College, Mumbai** (CGPA: **9.05 / 10** · top 5% of class).
 
-* 🎓 3rd-year Computer Science Engineering student.
-* 🧠 Work spans **LLMs, RAG systems, agent-based architectures, and local model inference**
-* ⚙️ Strong focus on **deployment, servers, tunnels, automation, and infra**
-* 🔐 Interested in **privacy-first AI** (local & decentralized models)
-* 🧪 Prefer building end-to-end systems over isolated demos
+I build production AI systems — not notebooks, not demos. My focus is on **NLP, RAG pipelines, and multimodal ML** that ships reliably in the real world.
 
-I care less about *model hype* and more about **systems that work under constraints**.
-
----
-
-## 💼 Skills & Tooling
-
-### 🧠 AI / ML / LLM Systems
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-* Local LLMs (Ollama, Phi, Qwen, Gemma)
-* RAG pipelines (CSV / vector DB / symptom-based retrieval)
-* Tokenization & dataset preprocessing at scale
-* Agent-based & multi-agent reasoning systems
+- 🏥 Currently: **AI/ML Engineering Intern @ TRREV Technology, Mumbai** — shipping a FastAPI-based keyword extraction ML service that improved precision by **30–50%**, and a production RAG chatbot with SQL-backed retrieval deployed on GCP
+- 🏆 **3× Hackathon 1st Place winner** in 2025 — including a national-level AI hackathon
+- 📄 **Published researcher** — peer-reviewed papers in JETIR (2024) and IJTE on AI/ML systems
+- 🎙 **Invited speaker** at IETE Students' Forum on deployment, CI/CD, and production workflows
+- 🤝 **Senior Technical Committee Member** — GDG TSEC (AI/ML innovations & workshops)
 
 ---
 
-### 🌐 Backend / Web / APIs
+## 🏆 Hackathon Wins
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-
-* FastAPI-based AI services
-* API orchestration & fallback strategies
-* Real-time transcription & processing pipelines
-
----
-
-### 🛠 Infra / DevOps / Deployment
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-
-* Cloudflare Tunnels (no open ports, ISP-safe)
-* Nginx reverse proxy setups
-* Self-hosted AI servers (CPU-constrained environments)
-* GitHub Pages, Render, Streamlit deployments
+| # | Hackathon | Project | Result |
+|---|-----------|---------|--------|
+| 1 | NEED FOR CODE 4.0, 2025 | DOC.AI — RAG document assistant | 🥇 1st Place (50+ teams) |
+| 2 | CODESSIANCE 2025 | SERENMIND — voice depression detection | 🥇 1st Place (40+ teams) |
+| 3 | TECHATHON 2025 | ML-powered solution | 🥇 1st Place (40+ teams) |
+| 4 | M-INDICATOR National AI Hackathon | MEDIVOICE — medical voice AI | 🥇 1st Place (National) |
+| 5 | TSEC HACKS 2026 | ML solution | 🥈 1st Runner Up (50+ teams) |
+| 6 | HACKVISION 2026 | ML solution | 🥈 1st Runner Up (40+ teams) |
 
 ---
 
-## 🚀 Projects & Work
+## 🚀 Projects
 
-* 🧠 **Micropulse** – Local & distributed SLM system (privacy-first AI)
-* 🧩 **RAG-based ERM Assistant** – Reduced API calls by storing symptom-level abstractions
-* 🎙 **Live Audio Transcription + Keyword Extraction** for medical workflows
-* 🌍 **Location-based Chat App** – Geo-matching + WebSocket privacy model
-* 🤖 **Multi-agent Deliberative AI System** (Project AETHER)
-* 🧪 Trained & optimized **small language models** under limited compute
-* 📄 **Published 2 AI/ML research papers**
-* 🏆 Participated in **multiple ML hackathons**
-* 💼 Internships: **Trrev Technology**
+### 🩺 SERENMIND — Voice-based Depression Detection
+> Multimodal AI system detecting early depression indicators from voice using acoustic + linguistic fusion.
+> BiLSTM + DistilRoBERTa · Librosa prosody extraction · Gemini orchestration · ElevenLabs TTS · GCP
+
+**[→ Repo](https://github.com/Yashasvaddi/SERENMIND)** · 🥇 CODESSIANCE 2025 Winner
 
 ---
 
-## 📫 Connect
+### 🎙 MEDIVOICE — Medical Voice AI Assistant
+> Real-time voice-first symptom triage system with urgency classification (Critical / Urgent / Routine).
+> Deepgram STT · LLM reasoning · Murf TTS · Next.js · Multi-language (EN / HI / MR) · <2s response
 
-If you care about **AI that actually runs**, not just models that look good in notebooks — we’ll get along.
-
-📩 Email: yashas.vaddi12@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/yashasvaddi/        
-🐙 Github: https://github.com/Yashasvaddi/Yashasvaddi      
+**[→ Repo](https://github.com/Yashasvaddi/MEDIVOICE)** · 🥇 National Level AI Hackathon Winner
 
 ---
 
-<p align="center">
-  <i>“Build systems, not demos. Optimize for reality.”</i>
-</p>
+### 📄 DOC.AI — Intelligent Document Assistant
+> Multi-format RAG assistant (PDF, DOCX, TXT) with section-wise summarization, context-aware Q&A, multi-document comparison, voice chatbot, and ethical AI filters.
+> LangChain · OpenAI · FastAPI · AssemblyAI · Vector DB · TTS
+
+**[→ Repo](https://github.com/Yashasvaddi/DOC.AI)** · 🥇 NEED FOR CODE 4.0 Winner
+
+---
+
+### ✍️ ScriptChat — AI Writing IDE
+> AI-powered writing IDE with context-aware story continuity, multi-agent feedback (Director, Editor, Audience), and knowledge graph integration for privacy-first local model execution.
+> Local LLMs · Multi-agent AI · Knowledge Graphs
+
+**[→ Repo](https://github.com/Yashasvaddi/ScriptChat)**
+
+---
+
+### ✋ AIR-DRAW — Gesture-based Drawing + AI Assistant
+> Touch-free interaction system using hand gesture recognition, real-time air drawing, and AI-driven voice/chat assistance. Published in IJTE.
+> OpenCV · MediaPipe · Python · Voice AI
+
+**[→ Repo](https://github.com/Yashasvaddi/AIR-DRAW-COMP-VISION)** · 📄 Published in IJTE
+
+---
+
+## 💼 Experience
+
+**AI/ML Engineering Intern — TRREV Technology, Mumbai** *(Aug 2025 – present)*
+- Owned end-to-end development and deployment of a production keyword extraction ML service using FastAPI — improved extraction precision by **30–50%** through noise filtering, text normalization, and prompt tuning
+- Built a production-grade **RAG chatbot** with SQL-backed retrieval, owning backend, system design, infrastructure, and GCP deployment
+
+---
+
+## 📄 Research Publications
+
+- **"Developing Smart Education Environment"** — *Journal of Emerging Technologies and Innovative Research (JETIR), 2024* — peer-reviewed AI/ML paper
+- **"Low-cost Multimodal AI for Touch-free Interaction"** — *IJTE* — hand gesture recognition, real-time drawing, and AI voice assistance
+
+---
+
+## 🛠 Skills
+
+**Languages:** Python · C++ · JavaScript  
+**ML / Deep Learning:** PyTorch · TensorFlow · Scikit-learn · BiLSTM · DistilRoBERTa  
+**NLP:** RAG · Embeddings · Keyword Extraction · Sentiment Analysis · LangChain  
+**Backend & Systems:** FastAPI · REST APIs · Async Services · SQL  
+**MLOps & Cloud:** Docker · GCP (Compute Engine · Cloud Build · Monitoring) · Nginx · Cloudflare Tunnels  
+**Data:** Pandas · NumPy · Feature Engineering · Librosa  
+**Speech / Multimodal:** Deepgram STT · ElevenLabs TTS · OpenCV · MediaPipe  
+
+---
+
+## 🎙 Speaking
+
+**Invited Speaker — IETE Students' Forum, SIES Graduate School of Technology**
+Delivered a technical seminar on deploying applications from local dev to production — server setup, CI/CD concepts, deployment pipelines, hosting, configuration, and monitoring.
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Engineering** — Thadomal Shahani Engineering College, Bandra, Mumbai  
+CGPA: **9.05 / 10** (Top 5% of class · avg. through 5th semester)
+
+**Certifications:**
+- Infosys Springboard — Artificial Intelligence (2024)
+
+---
+
+<div align="center">
+  <i>"Build systems, not demos. Optimize for reality."</i>
+</div>
