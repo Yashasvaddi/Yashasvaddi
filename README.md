@@ -19,7 +19,7 @@ Pre-final year **B.E. Computer Engineering** student at **Thadomal Shahani Engin
 I build production AI systems — not notebooks, not demos. My focus is on **NLP, RAG pipelines, and multimodal ML** that ships reliably in the real world.
 
 - 🏥 Currently: **AI/ML Engineering Intern @ TRREV Technology, Mumbai** — shipping a FastAPI-based keyword extraction ML service that improved precision by **30–50%**, and a production RAG chatbot with SQL-backed retrieval deployed on GCP
-- 🏆 **6× Hackathon Winner** in 2025 — including a national-level AI hackathon
+- 🏆 **7× Hackathon Winner** in 2025 — including a national-level AI hackathon
 - 📄 **Published researcher** — peer-reviewed papers in JETIR (2024) and IJTE on AI/ML systems
 - 🎙 **Invited speaker** at IETE Students' Forum on deployment, CI/CD, and production workflows
 - 🤝 **Senior Technical Committee Member** — GDG TSEC (AI/ML innovations & workshops)
@@ -31,11 +31,12 @@ I build production AI systems — not notebooks, not demos. My focus is on **NLP
 | # | Hackathon | Project | Result |
 |---|-----------|---------|--------|
 | 1 | NEED FOR CODE 4.0, 2025 | DOC.AI — RAG document assistant | 🥇 1st Place (50+ teams) |
-| 2 | CODESSIANCE 2025 | SERENMIND — voice depression detection | 🥇 1st Place (40+ teams) |
+| 2 | CODESSIANCE 2025 | SERENMIND — Voice depression detection | 🥇 1st Place (40+ teams) |
 | 3 | TECHATHON 2025 | ML-powered solution | 🥇 1st Place (40+ teams) |
-| 4 | M-INDICATOR National AI Hackathon | MEDIVOICE — medical voice AI | 🥇 1st Place (National) |
-| 5 | TSEC HACKS 2026 | ML solution | 🥈 1st Runner Up (50+ teams) |
-| 6 | HACKVISION 2026 | ML solution | 🥈 1st Runner Up (40+ teams) |
+| 4 | TSEC HACKS 2026 | ML solution | 🥈 1st Runner Up (50+ teams) |
+| 5 | HACKVISION 2026 | ML solution | 🥈 1st Runner Up (40+ teams) |
+| 6 | M-INDICATOR National AI Hackathon | MEDIVOICE — Medical voice AI | 🥇 2nd Runner Up (National) |
+| 7 | Code Craft 2 | ML solution | Best Project in AIML Domain
 
 ---
 
